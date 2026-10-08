@@ -1,0 +1,1489 @@
+[
+  {
+    "slug": "art-and-architecture-north",
+    "title": "Art & Architecture North",
+    "subtitle": "Final Composite Draft",
+    "category": "Architectural Graphics",
+    "course": "ARCH 154 — Intro to Architectural Graphics",
+    "instructor": "Matthew Brehm",
+    "location": "",
+    "year": "Second year",
+    "card_ratio": "4/5",
+    "summary": "Hand-drafted plans, sections, elevations and perspectives of the Art & Architecture Building North, brought together in a final composite.",
+    "description": [
+      "This project introduced architectural drafting through the study of the Art & Architecture Building North.",
+      "The work included hand-drafted floor plans, sections, elevations and perspectives, focused on understanding the building and the relationship between two-dimensional and three-dimensional space."
+    ],
+    "concept_title": "Drawing as understanding",
+    "concept": [
+      "The final composite brings the drawings together to show the drafting process and the development of foundational skills in architectural documentation, observation and visual communication."
+    ],
+    "facts": [
+      "Hand-drafted floor plans",
+      "Sections",
+      "Elevations",
+      "Perspectives"
+    ],
+    "process": [
+      {
+        "label": "Research",
+        "note": "Studying the Art & Architecture Building North through observation."
+      },
+      {
+        "label": "Drawing",
+        "note": "Floor plans, sections, elevations and perspectives drafted by hand."
+      },
+      {
+        "label": "Final",
+        "note": "A composite that brings the drawings together."
+      }
+    ],
+    "section_titles": {},
+    "images": [
+      {
+        "file": "hero.png",
+        "alt": "Final composite draft: marker-rendered perspective of the Art & Architecture Building North over a drafted elevation",
+        "kind": "hero",
+        "layout": "full",
+        "ratio": "3/2"
+      }
+    ],
+    "pitch": "Hand-drafted plans, sections, elevations and perspectives, brought together in a single composite. It shows how a building is observed, understood and drawn, from flat plan to three-dimensional space."
+  },
+  {
+    "slug": "quiet-harbor",
+    "title": "Quiet Harbor",
+    "subtitle": "Hand Renderings P1",
+    "category": "Hand Rendering",
+    "course": "IAD 152 — Interior Architecture & Design 1",
+    "instructor": "Ann-Jeannette Seymour",
+    "location": "",
+    "year": "Second year",
+    "card_ratio": "4/3",
+    "summary": "Four hand-rendered iterations of one interior, each shaped by a written narrative and a different technique.",
+    "description": [
+      "This project explored how different hand-rendering techniques influence the atmosphere and perception of an interior space.",
+      "Catalina developed four iterations using stippling, greyscale markers, graphite and pen."
+    ],
+    "concept_title": "Narrative first",
+    "concept": [
+      "Before creating the renderings, Catalina developed a narrative describing how she imagined someone experiencing and using the space. The narrative then guided each rendering.",
+      "The project demonstrates material representation, texture, value, atmosphere, hand rendering and visual storytelling."
+    ],
+    "facts": [
+      "Stippling",
+      "Greyscale markers",
+      "Graphite",
+      "Pen"
+    ],
+    "process": [
+      {
+        "label": "Idea",
+        "note": "A narrative describing how someone experiences and uses the space."
+      },
+      {
+        "label": "Iteration",
+        "note": "Four renderings: stippling, greyscale markers, graphite and pen."
+      },
+      {
+        "label": "Final",
+        "note": "Four iterations of the same space."
+      }
+    ],
+    "section_titles": {
+      "renderings": "Four Iterations"
+    },
+    "images": [
+      {
+        "file": "hero.png",
+        "alt": "Four hand-rendered iterations of the same interior, each paired with swatches and written notes",
+        "kind": "hero",
+        "layout": "full",
+        "ratio": "3/1"
+      },
+      {
+        "file": "panel-1.png",
+        "alt": "Quiet Harbor, iteration one, with written definitions of line, form and light",
+        "kind": "rendering",
+        "layout": "left",
+        "ratio": "3/4",
+        "caption": "Iteration 1"
+      },
+      {
+        "file": "panel-2.png",
+        "alt": "Quiet Harbor, iteration two, with line, hatch and stipple swatches",
+        "kind": "rendering",
+        "layout": "right",
+        "ratio": "3/4",
+        "caption": "Iteration 2",
+        "lift": true
+      },
+      {
+        "file": "panel-3.png",
+        "alt": "Quiet Harbor, iteration three, with tonal wash swatches",
+        "kind": "rendering",
+        "layout": "left",
+        "ratio": "3/4",
+        "caption": "Iteration 3"
+      },
+      {
+        "file": "panel-4.png",
+        "alt": "Quiet Harbor, iteration four, with the written story of the space",
+        "kind": "rendering",
+        "layout": "right",
+        "ratio": "3/4",
+        "caption": "Iteration 4",
+        "lift": true
+      }
+    ],
+    "card_image": "panel-2.png",
+    "pitch": "One interior, four ways of seeing it. Guided by a written story about how someone would live in the room, Catalina rendered the same space in stippling, greyscale markers, graphite and pen, and let each technique change its atmosphere."
+  },
+  {
+    "slug": "casa-de-luz-y-tierra",
+    "title": "Casa de Luz y Tierra",
+    "subtitle": "Creative Dwelling",
+    "category": "Residential Design",
+    "course": "IAD 152 — Interior Architecture & Design 1",
+    "instructor": "Ann-Jeannette Seymour",
+    "location": "",
+    "year": "Second year",
+    "card_ratio": "3/2",
+    "summary": "A home designed around the routines and passions of a fictional client who paints, cooks and runs, with a day that starts early.",
+    "description": [
+      "This project explored designing a home around the needs, routines and interests of a fictional client.",
+      "The program included a kitchen, primary bedroom, primary bathroom, studio, living room and dining space."
+    ],
+    "concept_title": "A home for creativity and everyday life",
+    "concept": [
+      "The fictional client has a passion for painting, cooking and running, and a routine that centers on early mornings.",
+      "Catalina's goal was to create a home that supports both creativity and everyday life through thoughtful and functional design.",
+      "The design went through multiple iterations and collaborative class feedback, which let Catalina refine layout, spatial relationships, functionality and responsiveness to the client."
+    ],
+    "facts": [
+      "Kitchen",
+      "Primary bedroom",
+      "Primary bathroom",
+      "Studio",
+      "Living room",
+      "Dining space"
+    ],
+    "process": [
+      {
+        "label": "Idea",
+        "note": "A client who paints, cooks and runs, with a routine built around early mornings."
+      },
+      {
+        "label": "Iteration",
+        "note": "Multiple layouts refined through collaborative class feedback."
+      },
+      {
+        "label": "Drawing",
+        "note": "Floor plan, elevations and additional architectural drawings."
+      },
+      {
+        "label": "Final",
+        "note": "The finished floor plan."
+      }
+    ],
+    "section_titles": {
+      "elevations": "Elevations"
+    },
+    "images": [
+      {
+        "file": "hero.png",
+        "alt": "Finished marker-rendered floor plan of Casa de Luz y Tierra",
+        "kind": "hero",
+        "layout": "full",
+        "ratio": "3/2",
+        "caption": "Finished floor plan"
+      },
+      {
+        "file": "process-01.png",
+        "alt": "Pencil process draft of the Casa de Luz y Tierra floor plan",
+        "kind": "process",
+        "layout": "wide",
+        "ratio": "3/2",
+        "stage": "Iteration",
+        "caption": "Process work"
+      },
+      {
+        "file": "elevation-01.png",
+        "alt": "Marker-rendered elevations of the primary bedroom, primary bathroom and west kitchen",
+        "kind": "elevation",
+        "layout": "left",
+        "ratio": "1/1",
+        "caption": "Primary bedroom, primary bathroom, west kitchen"
+      },
+      {
+        "file": "elevation-02.png",
+        "alt": "Marker-rendered elevation of the north kitchen",
+        "kind": "elevation",
+        "layout": "right",
+        "ratio": "1/1",
+        "caption": "North kitchen",
+        "lift": true
+      }
+    ],
+    "pitch": "A home built around a fictional client who paints, cooks and runs, and whose days start early. Through multiple layouts and class feedback, Catalina shaped the kitchen, studio, living and dining spaces and primary suite to support both creativity and everyday life."
+  },
+  {
+    "slug": "hero-lair",
+    "title": "Hero Lair",
+    "subtitle": "Project 1",
+    "category": "Conceptual Architecture",
+    "course": "ARCH 2750 — Summer Architecture Bootcamp",
+    "instructor": "Amy Rakich",
+    "location": "Moru Kopjes, Serengeti",
+    "year": "Second year",
+    "card_ratio": "4/3",
+    "summary": "A home for Simba carved into the Moru Kopjes rock formation in the Serengeti, shaped by his identity, rituals and daily life.",
+    "description": [
+      "This project explored the design of a lair for a chosen hero or villain based on their identity, rituals and daily life.",
+      "Catalina chose Simba from The Lion King and designed a home carved into the Moru Kopjes rock formation in the Serengeti."
+    ],
+    "concept_title": "Translating a story into architecture",
+    "concept": [
+      "The spaces reflect Simba's connection to family, his connection to nature, and his leadership.",
+      "The architecture was designed to blend with its surrounding environment."
+    ],
+    "facts": [
+      "Family",
+      "Nature",
+      "Leadership"
+    ],
+    "process": [
+      {
+        "label": "Idea",
+        "note": "Simba's identity, rituals and daily life."
+      },
+      {
+        "label": "Design",
+        "note": "A home carved into the Moru Kopjes, blending with its environment."
+      },
+      {
+        "label": "Final",
+        "note": "Spaces that reflect family, nature and leadership."
+      }
+    ],
+    "section_titles": {
+      "process": "Process",
+      "plans": "Plans",
+      "elevations": "Elevations & Sections",
+      "renderings": "Perspectives"
+    },
+    "images": [
+      {
+        "file": "hero.jpg",
+        "alt": "Long section of Simba's lair stepping down through the rock formation, with an acacia on the ridge",
+        "kind": "hero",
+        "layout": "full",
+        "ratio": "3168/2037",
+        "frame": true
+      },
+      {
+        "file": "simba-board.jpg",
+        "alt": "Character board for Simba listing his personality and rituals, with sunset, patrolling and community scenes",
+        "kind": "concept",
+        "layout": "left",
+        "ratio": "2021/3125",
+        "caption": "Character board",
+        "frame": true
+      },
+      {
+        "file": "collage.jpg",
+        "alt": "Black-and-white collage of boulders, a canyon and an acacia tree",
+        "kind": "concept",
+        "layout": "right",
+        "ratio": "3200/2071",
+        "caption": "Collage study",
+        "lift": true,
+        "frame": true
+      },
+      {
+        "file": "site-photo.jpg",
+        "alt": "Photograph of the Moru Kopjes rock formation rising from the Serengeti grassland",
+        "kind": "concept",
+        "layout": "left",
+        "ratio": "3168/2064",
+        "caption": "Moru Kopjes"
+      },
+      {
+        "file": "site-aerial.jpg",
+        "alt": "Aerial view of the Moru Kopjes site",
+        "kind": "concept",
+        "layout": "right",
+        "ratio": "3168/2041",
+        "caption": "Site from above",
+        "lift": true
+      },
+      {
+        "file": "serengeti-map.jpg",
+        "alt": "Hand-drawn map of Serengeti National Park in Tanzania locating the Moru Kopjes",
+        "kind": "concept",
+        "layout": "offset-l",
+        "ratio": "2002/3168",
+        "caption": "Serengeti National Park",
+        "frame": true
+      },
+      {
+        "file": "partis.jpg",
+        "alt": "Twelve parti diagrams explored as quick ink sketches",
+        "kind": "process",
+        "layout": "wide",
+        "ratio": "3200/2885",
+        "stage": "Idea",
+        "caption": "Parti studies",
+        "frame": true
+      },
+      {
+        "file": "sunrise.jpg",
+        "alt": "Four pencil sketches exploring the idea of a sunrise as curved forms",
+        "kind": "process",
+        "layout": "left",
+        "ratio": "3200/2451",
+        "stage": "Idea",
+        "caption": "Sunrise studies",
+        "frame": true
+      },
+      {
+        "file": "pool-of-water.jpg",
+        "alt": "Four pencil sketches exploring pool-of-water forms",
+        "kind": "process",
+        "layout": "right",
+        "ratio": "3200/2895",
+        "stage": "Idea",
+        "caption": "Pool of water studies",
+        "lift": true,
+        "frame": true
+      },
+      {
+        "file": "massing-1.jpg",
+        "alt": "Massing study of stacked rectangular volumes",
+        "kind": "process",
+        "layout": "third",
+        "ratio": "3157/3168",
+        "stage": "Design",
+        "caption": "Massing study",
+        "frame": true
+      },
+      {
+        "file": "massing-2.jpg",
+        "alt": "Massing study of rotated rectangular volumes",
+        "kind": "process",
+        "layout": "third",
+        "ratio": "3145/3168",
+        "stage": "Design",
+        "caption": "Massing study",
+        "frame": true
+      },
+      {
+        "file": "massing-3.jpg",
+        "alt": "Contour-shaped form with a rectangular volume cut into it",
+        "kind": "process",
+        "layout": "third",
+        "ratio": "3168/3168",
+        "stage": "Design",
+        "caption": "Form study",
+        "frame": true
+      },
+      {
+        "file": "floor-plan-study.jpg",
+        "alt": "Pencil floor plan study placing rooms around the rock",
+        "kind": "process",
+        "layout": "left",
+        "ratio": "3200/2426",
+        "stage": "Design",
+        "caption": "Floor plan study",
+        "frame": true
+      },
+      {
+        "file": "section-study.jpg",
+        "alt": "Pencil section study of a house set into a sloping hillside with a pool",
+        "kind": "process",
+        "layout": "right",
+        "ratio": "3200/2709",
+        "stage": "Design",
+        "caption": "Section study",
+        "lift": true,
+        "frame": true
+      },
+      {
+        "file": "perspective-study.jpg",
+        "alt": "Pencil perspective study of the lair's stone-arched volumes under a floating roof",
+        "kind": "process",
+        "layout": "left",
+        "ratio": "2518/1478",
+        "stage": "Design",
+        "caption": "Perspective study",
+        "frame": true
+      },
+      {
+        "file": "section-study-2.jpg",
+        "alt": "Pencil elevation study with boulders and textured stone",
+        "kind": "process",
+        "layout": "right",
+        "ratio": "2999/1606",
+        "stage": "Design",
+        "caption": "Elevation study",
+        "lift": true,
+        "frame": true
+      },
+      {
+        "file": "light-diagram.jpg",
+        "alt": "Section diagram with orange arrows showing air and light moving through the lair",
+        "kind": "process",
+        "layout": "wide",
+        "ratio": "3168/3157",
+        "stage": "Design",
+        "caption": "Light and air",
+        "frame": true
+      },
+      {
+        "file": "armature-1.jpg",
+        "alt": "A clock radio before it was taken apart",
+        "kind": "process",
+        "layout": "third",
+        "ratio": "3200/1800",
+        "stage": "Armature study",
+        "caption": "Armature study: a clock radio"
+      },
+      {
+        "file": "armature-2.jpg",
+        "alt": "The clock radio opened to show its circuit board and speaker",
+        "kind": "process",
+        "layout": "third",
+        "ratio": "1800/3200",
+        "stage": "Armature study",
+        "caption": "Taken apart"
+      },
+      {
+        "file": "armature-3.jpg",
+        "alt": "The clock radio's parts reassembled as a sculptural armature",
+        "kind": "process",
+        "layout": "third",
+        "ratio": "3200/1800",
+        "stage": "Armature study",
+        "caption": "Reassembled as an armature"
+      },
+      {
+        "file": "floor-plan-1.jpg",
+        "alt": "Floor plan of the lair among contour-drawn boulders",
+        "kind": "plan",
+        "layout": "wide",
+        "ratio": "3168/2054",
+        "caption": "Floor plan",
+        "frame": true
+      },
+      {
+        "file": "floor-plan-2.jpg",
+        "alt": "Second floor plan of the lair",
+        "kind": "plan",
+        "layout": "left",
+        "ratio": "3168/2038",
+        "caption": "Lower floor plan",
+        "frame": true
+      },
+      {
+        "file": "floor-plan-3.jpg",
+        "alt": "Third floor plan of the lair",
+        "kind": "plan",
+        "layout": "right",
+        "ratio": "3168/2005",
+        "caption": "Upper floor plan",
+        "lift": true,
+        "frame": true
+      },
+      {
+        "file": "site-plan.jpg",
+        "alt": "Site and roof plan of the lair among contour-drawn boulders",
+        "kind": "plan",
+        "layout": "wide",
+        "ratio": "3168/2076",
+        "caption": "Site plan",
+        "frame": true
+      },
+      {
+        "file": "elevation.jpg",
+        "alt": "Pen elevation of the lair, with shaded boulders and an acacia tree",
+        "kind": "elevation",
+        "layout": "wide",
+        "ratio": "3168/2067",
+        "caption": "Elevation",
+        "frame": true
+      },
+      {
+        "file": "section.jpg",
+        "alt": "Short section through the lair",
+        "kind": "elevation",
+        "layout": "left",
+        "ratio": "3168/2052",
+        "caption": "Section",
+        "frame": true
+      },
+      {
+        "file": "section-annotated.jpg",
+        "alt": "Annotated section drawing with callouts for the entrance and materials",
+        "kind": "elevation",
+        "layout": "right",
+        "ratio": "3168/2409",
+        "caption": "Annotated section",
+        "lift": true,
+        "frame": true
+      },
+      {
+        "file": "perspective-marker.jpg",
+        "alt": "Marker-rendered perspective of the lair in the rocks under a blue sky",
+        "kind": "rendering",
+        "layout": "left",
+        "ratio": "3168/2005",
+        "caption": "Perspective",
+        "frame": true
+      },
+      {
+        "file": "perspective-interior.jpg",
+        "alt": "Marker-rendered interior perspective of the lair's rock wall and warm timber floor",
+        "kind": "rendering",
+        "layout": "right",
+        "ratio": "3168/1999",
+        "caption": "Interior perspective",
+        "lift": true,
+        "frame": true
+      },
+      {
+        "file": "model-1.jpg",
+        "alt": "Cardboard study model of stacked volumes with an arched opening, on a landform base",
+        "kind": "model",
+        "layout": "third",
+        "ratio": "3200/1800",
+        "caption": "Cardboard study model"
+      },
+      {
+        "file": "model-2.jpg",
+        "alt": "Cardboard study model seen from the side, stepping up with the landform",
+        "kind": "model",
+        "layout": "third",
+        "ratio": "3200/1800",
+        "caption": "Stepped with the landform"
+      },
+      {
+        "file": "model-3.jpg",
+        "alt": "Cardboard study model seen from above",
+        "kind": "model",
+        "layout": "third",
+        "ratio": "3200/1800",
+        "caption": "From above"
+      }
+    ],
+    "quote": {
+      "text": "This project is a home designed for Simba from The Lion King. The goal was to create a safe and peaceful place where Simba can live with his family while watching over the Pride Lands. The house is built into the side of a mountain so it blends into the natural landscape and overlooks the Serengeti savanna.",
+      "source": "Project narrative"
+    },
+    "pitch": "What does home look like for Simba? Catalina designed a lair carved into the Moru Kopjes rock formation in the Serengeti, where family, nature and leadership shape the spaces and the architecture blends into the landscape."
+  },
+  {
+    "slug": "philips-field-station",
+    "title": "Philips Field Station",
+    "subtitle": "Project 2 — Research Through Design",
+    "category": "Research Through Design",
+    "course": "ARCH 2750 — Summer Architecture Bootcamp",
+    "instructor": "Amy Rakich",
+    "location": "Philips Farm",
+    "year": "Second year",
+    "card_ratio": "3/2",
+    "summary": "A field station where two students and researchers live and work at Philips Farm, with architecture as a bridge between people and landscape.",
+    "description": [
+      "The project was designed to support two students and researchers living and conducting fieldwork at Philips Farm.",
+      "The design creates spaces for observation, study, collaboration and learning, and lets visitors engage with ongoing research and experience the ecological systems of the site."
+    ],
+    "concept_title": "Architecture as a bridge",
+    "concept": [
+      "The architectural concept treats architecture as a bridge between people and landscape."
+    ],
+    "facts": [
+      "First-floor plan",
+      "Second-floor plan",
+      "Community and observation spaces",
+      "Living and research spaces"
+    ],
+    "process": [
+      {
+        "label": "Research",
+        "note": "Fieldwork life and the ecological systems of Philips Farm."
+      },
+      {
+        "label": "Design",
+        "note": "Spaces for observation, study, collaboration and learning."
+      },
+      {
+        "label": "Drawing",
+        "note": "First- and second-floor plans."
+      },
+      {
+        "label": "Final",
+        "note": "Community, observation, living and research spaces."
+      }
+    ],
+    "section_titles": {
+      "process": "Process",
+      "plans": "Floor Plans",
+      "elevations": "Elevations & Section",
+      "renderings": "Perspective"
+    },
+    "images": [
+      {
+        "file": "hero.jpg",
+        "alt": "Pen perspective of the round Philips Field Station with a vertical timber screen",
+        "kind": "hero",
+        "layout": "full",
+        "ratio": "2029/2186",
+        "frame": true
+      },
+      {
+        "file": "site-photo.jpg",
+        "alt": "Photograph of the Philips Farm meadow with a trail sign and pine forest beyond",
+        "kind": "process",
+        "layout": "wide",
+        "ratio": "3200/1800",
+        "stage": "Research",
+        "caption": "Philips Farm"
+      },
+      {
+        "file": "trail-map.jpg",
+        "alt": "Aerial trail map of Philips Farm with heritage and native plant trails marked",
+        "kind": "process",
+        "layout": "left",
+        "ratio": "2142/2142",
+        "stage": "Research",
+        "caption": "Trail map"
+      },
+      {
+        "file": "board-history.jpg",
+        "alt": "Research board titled This is Philips Farms covering its history and present day",
+        "kind": "process",
+        "layout": "right",
+        "ratio": "2071/3200",
+        "stage": "Research",
+        "caption": "History board",
+        "lift": true
+      },
+      {
+        "file": "board-ecology.jpg",
+        "alt": "Research board on the ecology, wildlife and native plants of Philips Farm",
+        "kind": "process",
+        "layout": "left",
+        "ratio": "2071/3200",
+        "stage": "Research",
+        "caption": "Ecology and flora"
+      },
+      {
+        "file": "board-climate.jpg",
+        "alt": "Research board on climate, soil and topography with a contour map",
+        "kind": "process",
+        "layout": "right",
+        "ratio": "2071/3200",
+        "stage": "Research",
+        "caption": "Climate and topography",
+        "lift": true
+      },
+      {
+        "file": "field-notes-1.jpg",
+        "alt": "Field notes: four panoramic photographs of the farm's meadows and trails",
+        "kind": "process",
+        "layout": "wide",
+        "ratio": "2772/2142",
+        "stage": "Research",
+        "caption": "Field notes",
+        "frame": true
+      },
+      {
+        "file": "field-notes-2.jpg",
+        "alt": "Field notes: close photographs of native plants held in hand",
+        "kind": "process",
+        "layout": "left",
+        "ratio": "2772/2142",
+        "stage": "Research",
+        "caption": "Field notes: plants",
+        "frame": true
+      },
+      {
+        "file": "field-notes-3.jpg",
+        "alt": "Field notes: photographs of grasses, flowers and conifer cones",
+        "kind": "process",
+        "layout": "right",
+        "ratio": "2772/2142",
+        "stage": "Research",
+        "caption": "Field notes: grasses and cones",
+        "lift": true,
+        "frame": true
+      },
+      {
+        "file": "pollinator-collage.jpg",
+        "alt": "Collage of native plants, seed heads and birdhouses on a white ground",
+        "kind": "process",
+        "layout": "left",
+        "ratio": "2071/3200",
+        "stage": "Research",
+        "caption": "Pollinator collage"
+      },
+      {
+        "file": "pollinator-key.jpg",
+        "alt": "Key naming the fifteen plants and objects in the pollinator collage",
+        "kind": "process",
+        "layout": "right",
+        "ratio": "2560/3200",
+        "stage": "Research",
+        "caption": "Collage key",
+        "lift": true
+      },
+      {
+        "file": "precedent-smithson.jpg",
+        "alt": "Precedent slide on Robert Smithson and the Land Art movement",
+        "kind": "process",
+        "layout": "wide",
+        "ratio": "3200/1800",
+        "stage": "Research",
+        "caption": "Precedent: Robert Smithson"
+      },
+      {
+        "file": "precedent-goldsworthy.jpg",
+        "alt": "Precedent slide on Andy Goldsworthy",
+        "kind": "process",
+        "layout": "left",
+        "ratio": "3200/1800",
+        "stage": "Research",
+        "caption": "Precedent: Andy Goldsworthy"
+      },
+      {
+        "file": "precedent-lin.jpg",
+        "alt": "Precedent slide on Maya Lin",
+        "kind": "process",
+        "layout": "right",
+        "ratio": "3200/1800",
+        "stage": "Research",
+        "caption": "Precedent: Maya Lin"
+      },
+      {
+        "file": "botanical.jpg",
+        "alt": "Pen drawing of native plants, seed heads and birdhouses",
+        "kind": "process",
+        "layout": "left",
+        "ratio": "1982/3168",
+        "stage": "Research",
+        "caption": "Botanical drawing",
+        "frame": true
+      },
+      {
+        "file": "field-sketch-1.jpg",
+        "alt": "Pencil sketch of a stepped path through tall grass, framed by rough posts",
+        "kind": "process",
+        "layout": "right",
+        "ratio": "3092/3168",
+        "stage": "Research",
+        "caption": "Field sketch",
+        "lift": true,
+        "frame": true
+      },
+      {
+        "file": "field-sketch-2.jpg",
+        "alt": "Pencil section sketch of the farm's layered ground with notes on topsoil and bedrock",
+        "kind": "process",
+        "layout": "wide",
+        "ratio": "3168/2378",
+        "stage": "Research",
+        "caption": "Field section sketch",
+        "frame": true
+      },
+      {
+        "file": "sketch-1.jpg",
+        "alt": "Pencil elevation sketch of a curved, ribbed building",
+        "kind": "process",
+        "layout": "third",
+        "ratio": "2330/3029",
+        "stage": "Design",
+        "caption": "Post-research sketch",
+        "frame": true
+      },
+      {
+        "file": "sketch-2.jpg",
+        "alt": "Pencil plan sketch of curved rooms inside a rounded outline",
+        "kind": "process",
+        "layout": "third",
+        "ratio": "2392/2153",
+        "stage": "Design",
+        "caption": "Post-research sketch",
+        "frame": true
+      },
+      {
+        "file": "sketch-3.jpg",
+        "alt": "Pencil plan sketch with a spiral stair",
+        "kind": "process",
+        "layout": "third",
+        "ratio": "2168/2692",
+        "stage": "Design",
+        "caption": "Post-research sketch",
+        "frame": true
+      },
+      {
+        "file": "parti.jpg",
+        "alt": "Parti diagram of a large circle with smaller circles and curved forms",
+        "kind": "process",
+        "layout": "third",
+        "ratio": "3168/2464",
+        "stage": "Design",
+        "caption": "Parti",
+        "frame": true
+      },
+      {
+        "file": "axon-diagram.jpg",
+        "alt": "Axonometric diagram of a cylinder with its walls and floors in color",
+        "kind": "process",
+        "layout": "third",
+        "ratio": "2367/3149",
+        "stage": "Design",
+        "caption": "Axonometric diagram",
+        "frame": true
+      },
+      {
+        "file": "topo-diagram.jpg",
+        "alt": "Plan with a topo diagram showing the building's ground treatment in color",
+        "kind": "process",
+        "layout": "third",
+        "ratio": "1988/3168",
+        "stage": "Design",
+        "caption": "Topo diagram",
+        "frame": true
+      },
+      {
+        "file": "model-board.jpg",
+        "alt": "Pin-up board of drawings with the field station model on the table below",
+        "kind": "model",
+        "layout": "wide",
+        "ratio": "3200/2400",
+        "caption": "Pin-up"
+      },
+      {
+        "file": "model-1.jpg",
+        "alt": "White study model of the domed field station seen from the outside",
+        "kind": "model",
+        "layout": "third",
+        "ratio": "1800/3200",
+        "caption": "Model"
+      },
+      {
+        "file": "model-2.jpg",
+        "alt": "Sectional model of the field station showing both floors under the dome",
+        "kind": "model",
+        "layout": "third",
+        "ratio": "1800/3200",
+        "caption": "Sectional model"
+      },
+      {
+        "file": "model-3.jpg",
+        "alt": "Site model of the field station with landscape and timber posts",
+        "kind": "model",
+        "layout": "third",
+        "ratio": "1800/3200",
+        "caption": "Site model"
+      },
+      {
+        "file": "first-floor-plan.jpg",
+        "alt": "First-floor plan of the field station: community and observation",
+        "kind": "plan",
+        "layout": "left",
+        "ratio": "3168/2761",
+        "caption": "First floor: community and observation",
+        "frame": true
+      },
+      {
+        "file": "second-floor-plan.jpg",
+        "alt": "Second-floor plan of the field station: living and research",
+        "kind": "plan",
+        "layout": "right",
+        "ratio": "3168/2642",
+        "caption": "Second floor: living and research",
+        "lift": true,
+        "frame": true
+      },
+      {
+        "file": "elevation-1.jpg",
+        "alt": "Elevation of the domed field station with a tall tree to the right",
+        "kind": "elevation",
+        "layout": "left",
+        "ratio": "3168/2706",
+        "caption": "Elevation",
+        "frame": true
+      },
+      {
+        "file": "elevation-2.jpg",
+        "alt": "Elevation of the field station set into sloping ground",
+        "kind": "elevation",
+        "layout": "right",
+        "ratio": "3168/2702",
+        "caption": "Elevation",
+        "lift": true,
+        "frame": true
+      },
+      {
+        "file": "section.jpg",
+        "alt": "Section through the domed field station",
+        "kind": "elevation",
+        "layout": "wide",
+        "ratio": "3168/2644",
+        "caption": "Section",
+        "frame": true
+      },
+      {
+        "file": "perspective-close.jpg",
+        "alt": "Close pen perspective of the field station's curved screen and entry",
+        "kind": "rendering",
+        "layout": "offset-l",
+        "ratio": "1977/3088",
+        "caption": "Perspective at the entry",
+        "frame": true
+      },
+      {
+        "file": "group-1.jpg",
+        "alt": "Watercolor of a wooded trail with hanging chimes of different lengths",
+        "kind": "process",
+        "layout": "left",
+        "ratio": "2649/3168",
+        "stage": "Group installation",
+        "caption": "Chiming Trees, a group installation proposal"
+      },
+      {
+        "file": "group-2.jpg",
+        "alt": "Pencil sketch of chimes hanging from a branch above the trail",
+        "kind": "process",
+        "layout": "right",
+        "ratio": "2053/3168",
+        "stage": "Group installation",
+        "caption": "Chime study",
+        "lift": true
+      },
+      {
+        "file": "group-3.jpg",
+        "alt": "Site plan of the chime installation among trees along the trail",
+        "kind": "process",
+        "layout": "wide",
+        "ratio": "3168/2406",
+        "stage": "Group installation",
+        "caption": "Installation plan"
+      }
+    ],
+    "quote": {
+      "text": "This research center is inspired by the complex system of pollination and the interconnected relationships that sustain the ecology of Philips Farm in Moscow, Idaho. The project explores how plants, pollinators, researchers, and visitors are all connected within the landscape, creating a space that celebrates nature through design while remaining sensitive and responsible to the local environment.",
+      "source": "Project statement"
+    },
+    "pitch": "Architecture as a bridge between people and landscape. Inspired by the system of pollination, this field station supports two student researchers living and working at Philips Farm, with room for observation, study and collaboration, and a way for visitors to experience the site's ecology."
+  },
+  {
+    "slug": "legacy-crossing",
+    "title": "Olivier's Chocolate",
+    "eyebrow": "Legacy Crossing",
+    "subtitle": "A Taste of Belgium, brought to Moscow, Idaho",
+    "category": "Urban Renewal + Interior Architecture",
+    "course": "ARCH 2750 — Summer Architecture Bootcamp",
+    "instructor": "Amy Rakich",
+    "location": "6th and Jackson Street, Moscow, Idaho",
+    "year": "Second year",
+    "card_ratio": "4/3",
+    "summary": "A collaborative urban renewal study near the Moscow silos, and one of its parcels: a chocolate shop with two homes, designed around a fictional Belgian chocolatier.",
+    "description": [
+      "Legacy Crossing, Project 3 — Urban Renewal, was a collaborative project with the theme Arts, Beats & Eats. The class researched urban renewal, historical and contemporary precedents, existing redevelopment plans, the organizations involved and future development sites.",
+      "The class selected a site near the intersection of 6th and Jackson Street by the Moscow silos and divided it into seven parcels. Each student developed a potential business concept, and Catalina chose chocolatiering. The result is Olivier's Chocolate."
+    ],
+    "concept_title": "A new home, a new community",
+    "concept": [
+      "The concept follows a fictional Belgian chocolatier named Olivier, who moves to Moscow, Idaho to share his craft and build a new community.",
+      "The design draws from Belgian architecture, materials and craftsmanship, and explores identity, home, community and cultural connection.",
+      "The building includes a chocolate shop, two private living spaces with bedrooms, bathrooms and compact kitchens, and a shared washer/dryer."
+    ],
+    "facts": [
+      "Chocolate shop",
+      "Two private living spaces",
+      "Bedrooms",
+      "Bathrooms",
+      "Compact kitchens",
+      "Shared washer/dryer"
+    ],
+    "process": [
+      {
+        "label": "Research",
+        "note": "Urban renewal, historical and contemporary precedents, redevelopment plans, organizations and future sites."
+      },
+      {
+        "label": "Site",
+        "note": "A site near 6th and Jackson Street by the Moscow silos, divided into seven parcels."
+      },
+      {
+        "label": "Narrative",
+        "note": "A fictional Belgian chocolatier moves to Moscow, Idaho."
+      },
+      {
+        "label": "Concept",
+        "note": "Identity, home, community and cultural connection."
+      },
+      {
+        "label": "Business",
+        "note": "Chocolatiering as the parcel's business concept."
+      },
+      {
+        "label": "Architecture",
+        "note": "Belgian architecture, materials and craftsmanship."
+      },
+      {
+        "label": "Interior",
+        "note": "The chocolate shop."
+      },
+      {
+        "label": "Residential program",
+        "note": "Two private living spaces with bedrooms, bathrooms and compact kitchens, plus a shared washer/dryer."
+      }
+    ],
+    "section_titles": {
+      "process": "Research to Concept",
+      "plans": "Plans",
+      "elevations": "Sections",
+      "renderings": "Interior & Street"
+    },
+    "images": [
+      {
+        "file": "hero.jpg",
+        "alt": "Watercolor perspective of Olivier's Chocolates on the corner, with notes for the bakery, silos and furniture",
+        "kind": "hero",
+        "layout": "full",
+        "ratio": "3200/2498",
+        "frame": true
+      },
+      {
+        "file": "ur-title.jpg",
+        "alt": "Title slide: Urban Renewal, research on urban redevelopment examples",
+        "kind": "process",
+        "layout": "left",
+        "ratio": "2772/2142",
+        "stage": "Research",
+        "caption": "Urban renewal research"
+      },
+      {
+        "file": "ur-comparison.jpg",
+        "alt": "Slide comparing urban renewal in Boston, Philadelphia, San Antonio and Cincinnati",
+        "kind": "process",
+        "layout": "right",
+        "ratio": "2772/2142",
+        "stage": "Research",
+        "caption": "Comparing four cities"
+      },
+      {
+        "file": "green-bay-1.jpg",
+        "alt": "Slide on the Shipyard redevelopment in Green Bay, Wisconsin",
+        "kind": "process",
+        "layout": "left",
+        "ratio": "3200/1800",
+        "stage": "Research",
+        "caption": "Green Bay, Wisconsin",
+        "frame": true
+      },
+      {
+        "file": "green-bay-2.jpg",
+        "alt": "Slide describing the Green Bay Shipyard plan: lawns, plazas, docks and event areas",
+        "kind": "process",
+        "layout": "right",
+        "ratio": "3200/1800",
+        "stage": "Research",
+        "caption": "Green Bay: a plaza plan",
+        "frame": true
+      },
+      {
+        "file": "lc-title.jpg",
+        "alt": "Slide: Legacy Crossing, urban renewal and redevelopment in Moscow, Idaho",
+        "kind": "process",
+        "layout": "left",
+        "ratio": "3200/1800",
+        "stage": "Research",
+        "caption": "Legacy Crossing",
+        "frame": true
+      },
+      {
+        "file": "lc-where.jpg",
+        "alt": "Slide mapping where Legacy Crossing sits between downtown Moscow and the university",
+        "kind": "process",
+        "layout": "right",
+        "ratio": "3200/1800",
+        "stage": "Research",
+        "caption": "Where is Legacy Crossing?",
+        "frame": true
+      },
+      {
+        "file": "lc-who.jpg",
+        "alt": "Slide on the organizations responsible for the Legacy Crossing district",
+        "kind": "process",
+        "layout": "left",
+        "ratio": "3200/1800",
+        "stage": "Research",
+        "caption": "Who does it belong to?",
+        "frame": true
+      },
+      {
+        "file": "lc-projects.jpg",
+        "alt": "Slide on major projects within Legacy Crossing",
+        "kind": "process",
+        "layout": "right",
+        "ratio": "3200/1800",
+        "stage": "Research",
+        "caption": "Major projects in the district",
+        "frame": true
+      },
+      {
+        "file": "precedent-plazas.jpg",
+        "alt": "Precedent sheet on Pearl Street Mall, Carmel by the Sea and Healdsburg Plaza",
+        "kind": "process",
+        "layout": "offset-l",
+        "ratio": "2071/3200",
+        "stage": "Research",
+        "caption": "Precedents for retail plazas",
+        "frame": true
+      },
+      {
+        "file": "site-map.jpg",
+        "alt": "Hand-colored map of the Legacy Crossing district and its neighbors in Moscow, Idaho",
+        "kind": "process",
+        "layout": "wide",
+        "ratio": "3168/2069",
+        "stage": "Site",
+        "caption": "Site map, 6th and Jackson Street",
+        "frame": true
+      },
+      {
+        "file": "master-site-plan.jpg",
+        "alt": "Master site plan of the parcels around the plaza, hand colored by use",
+        "kind": "process",
+        "layout": "wide",
+        "ratio": "2282/1728",
+        "stage": "Site",
+        "caption": "Master site plan",
+        "frame": true
+      },
+      {
+        "file": "models-quarter-inch.jpg",
+        "alt": "Quarter-inch white models of the parcel buildings lined up on a table",
+        "kind": "process",
+        "layout": "left",
+        "ratio": "3200/2400",
+        "stage": "Site",
+        "caption": "Quarter-inch models"
+      },
+      {
+        "file": "model-plaza.jpg",
+        "alt": "Final plaza model with colored parcel buildings and small trees",
+        "kind": "process",
+        "layout": "right",
+        "ratio": "2400/3200",
+        "stage": "Site",
+        "caption": "Final plaza model",
+        "lift": true
+      },
+      {
+        "file": "group-isometric.jpg",
+        "alt": "Bird's-eye pencil isometric of the plaza and its parcels",
+        "kind": "process",
+        "layout": "wide",
+        "ratio": "2603/1746",
+        "stage": "Site",
+        "caption": "Group bird's-eye isometric",
+        "frame": true
+      },
+      {
+        "file": "group-elevation.jpg",
+        "alt": "Street elevation of the seven parcels side by side",
+        "kind": "process",
+        "layout": "wide",
+        "ratio": "2537/1690",
+        "stage": "Site",
+        "caption": "Group street elevation",
+        "frame": true
+      },
+      {
+        "file": "collage.jpg",
+        "alt": "Collage of a chocolaterie, a tray of truffles, hot chocolate and raspberries",
+        "kind": "process",
+        "layout": "left",
+        "ratio": "2071/3200",
+        "stage": "Narrative",
+        "caption": "Chocolatier collage"
+      },
+      {
+        "file": "journal-1.jpg",
+        "alt": "Chocolate journal: street photographs and a collage of truffles",
+        "kind": "process",
+        "layout": "right",
+        "ratio": "2772/2142",
+        "stage": "Narrative",
+        "caption": "Chocolate journal",
+        "lift": true,
+        "frame": true
+      },
+      {
+        "file": "journal-3.jpg",
+        "alt": "Chocolate journal: photographs of brick storefronts and a patio",
+        "kind": "process",
+        "layout": "left",
+        "ratio": "2772/2142",
+        "stage": "Narrative",
+        "caption": "Chocolate journal",
+        "frame": true
+      },
+      {
+        "file": "journal-4.jpg",
+        "alt": "Chocolate journal: a corner window, a door and a bench",
+        "kind": "process",
+        "layout": "right",
+        "ratio": "2772/2142",
+        "stage": "Narrative",
+        "caption": "Chocolate journal",
+        "lift": true,
+        "frame": true
+      },
+      {
+        "file": "olivier-logo.jpg",
+        "alt": "Olivier's Chocolates logo in gold on dark brown",
+        "kind": "process",
+        "layout": "wide",
+        "ratio": "3200/1800",
+        "stage": "Concept",
+        "caption": "Olivier's Chocolates"
+      },
+      {
+        "file": "olivier-inspiration.jpg",
+        "alt": "Collage of Belgian shopfronts, stairs, tile and chandeliers",
+        "kind": "process",
+        "layout": "left",
+        "ratio": "3200/1800",
+        "stage": "Concept",
+        "caption": "Belgian references"
+      },
+      {
+        "file": "olivier-cacao.jpg",
+        "alt": "Slide on the history and culture of cacao with a map of cocoa-growing regions",
+        "kind": "process",
+        "layout": "right",
+        "ratio": "3200/1800",
+        "stage": "Concept",
+        "caption": "History and culture of cacao"
+      },
+      {
+        "file": "diagram-process.jpg",
+        "alt": "Hand diagram of the bean-to-chocolate process: grinding, tempering, molding",
+        "kind": "process",
+        "layout": "left",
+        "ratio": "2777/1999",
+        "stage": "Concept",
+        "caption": "Bean to chocolate",
+        "frame": true
+      },
+      {
+        "file": "diagram-senses.jpg",
+        "alt": "Diagram of the five senses in a chocolate shop",
+        "kind": "process",
+        "layout": "right",
+        "ratio": "2769/3168",
+        "stage": "Concept",
+        "caption": "Five senses in a chocolate shop",
+        "lift": true,
+        "frame": true
+      },
+      {
+        "file": "diagram-temperature.jpg",
+        "alt": "Diagram of hot, cool, transition and customer zones by temperature",
+        "kind": "process",
+        "layout": "left",
+        "ratio": "3168/2168",
+        "stage": "Concept",
+        "caption": "Temperature zones",
+        "frame": true
+      },
+      {
+        "file": "diagram-zones.jpg",
+        "alt": "Diagram of shop zones from front of house to back of house and office",
+        "kind": "process",
+        "layout": "right",
+        "ratio": "2890/2638",
+        "stage": "Concept",
+        "caption": "Shop zones",
+        "lift": true,
+        "frame": true
+      },
+      {
+        "file": "research-what.jpg",
+        "alt": "Slide: what is chocolatiering, with its products and knowledge required",
+        "kind": "process",
+        "layout": "left",
+        "ratio": "3200/1800",
+        "stage": "Business",
+        "caption": "What is chocolatiering?"
+      },
+      {
+        "file": "research-spectrum.jpg",
+        "alt": "Slide: the chocolatiering spectrum from niche to program and space requirements",
+        "kind": "process",
+        "layout": "right",
+        "ratio": "3200/1800",
+        "stage": "Business",
+        "caption": "The chocolatiering spectrum"
+      },
+      {
+        "file": "research-styles.jpg",
+        "alt": "Slide: shop styles from small studio to artisan shop",
+        "kind": "process",
+        "layout": "left",
+        "ratio": "3200/1800",
+        "stage": "Business",
+        "caption": "Shop styles"
+      },
+      {
+        "file": "research-method.jpg",
+        "alt": "Slide: methodology and the five senses",
+        "kind": "process",
+        "layout": "right",
+        "ratio": "3200/1800",
+        "stage": "Business",
+        "caption": "Methodology"
+      },
+      {
+        "file": "case-study-1.jpg",
+        "alt": "Slide: case study of Blue Table Chocolates in Larkinville",
+        "kind": "process",
+        "layout": "left",
+        "ratio": "3200/1800",
+        "stage": "Business",
+        "caption": "Case study: Blue Table Chocolates"
+      },
+      {
+        "file": "case-study-2.jpg",
+        "alt": "Slide: case study of Arcay Chocolates in Washington, D.C.",
+        "kind": "process",
+        "layout": "right",
+        "ratio": "3200/1800",
+        "stage": "Business",
+        "caption": "Case study: Arcay Chocolates"
+      },
+      {
+        "file": "sketch-sign.jpg",
+        "alt": "Pencil sketch of the shop sign and storefront",
+        "kind": "process",
+        "layout": "third",
+        "ratio": "2320/1814",
+        "stage": "Architecture",
+        "caption": "Sign and storefront",
+        "frame": true
+      },
+      {
+        "file": "sketch-entry.jpg",
+        "alt": "Pencil sketch of an arched entrance idea",
+        "kind": "process",
+        "layout": "third",
+        "ratio": "2704/2753",
+        "stage": "Architecture",
+        "caption": "Entrance idea",
+        "frame": true
+      },
+      {
+        "file": "sketch-awning.jpg",
+        "alt": "Pencil sketch of a scalloped awning",
+        "kind": "process",
+        "layout": "third",
+        "ratio": "1666/3116",
+        "stage": "Architecture",
+        "caption": "Awning idea",
+        "frame": true
+      },
+      {
+        "file": "sketch-plan.jpg",
+        "alt": "Annotated hand sketch of the shop plan: info board, display, cashier and seating",
+        "kind": "process",
+        "layout": "wide",
+        "ratio": "2584/2292",
+        "stage": "Architecture",
+        "caption": "Annotated shop plan sketch",
+        "frame": true
+      },
+      {
+        "file": "plan-study-1.jpg",
+        "alt": "Early plan study of the shop and living spaces",
+        "kind": "process",
+        "layout": "left",
+        "ratio": "2232/2454",
+        "stage": "Architecture",
+        "caption": "Plan study",
+        "frame": true
+      },
+      {
+        "file": "plan-study-2.jpg",
+        "alt": "Second plan study of the shop and living spaces",
+        "kind": "process",
+        "layout": "right",
+        "ratio": "1808/2710",
+        "stage": "Architecture",
+        "caption": "Plan study",
+        "lift": true,
+        "frame": true
+      },
+      {
+        "file": "plan-diagram.jpg",
+        "alt": "Shop plan diagram with colored zones, circulation arrows and a key",
+        "kind": "plan",
+        "layout": "wide",
+        "ratio": "3168/2486",
+        "caption": "Plan diagram",
+        "frame": true
+      },
+      {
+        "file": "plans.jpg",
+        "alt": "Final floor plans: the chocolate shop below and the two living spaces above",
+        "kind": "plan",
+        "layout": "wide",
+        "ratio": "3168/2575",
+        "caption": "Shop plan and living-space plan",
+        "frame": true
+      },
+      {
+        "file": "section-long.jpg",
+        "alt": "Long section through the shop and the two living spaces above",
+        "kind": "elevation",
+        "layout": "wide",
+        "ratio": "3168/1927",
+        "caption": "Long section",
+        "frame": true
+      },
+      {
+        "file": "section-short.jpg",
+        "alt": "Short section through the building",
+        "kind": "elevation",
+        "layout": "offset-l",
+        "ratio": "3168/1823",
+        "caption": "Short section",
+        "frame": true
+      },
+      {
+        "file": "interior.jpg",
+        "alt": "Interior perspective of the chocolate shop with a counter and a figure walking by",
+        "kind": "rendering",
+        "layout": "left",
+        "ratio": "3168/2032",
+        "caption": "Shop interior",
+        "frame": true
+      },
+      {
+        "file": "exterior-perspective.jpg",
+        "alt": "Line perspective of the shop's street facade",
+        "kind": "rendering",
+        "layout": "right",
+        "ratio": "3168/2010",
+        "caption": "Street perspective",
+        "lift": true,
+        "frame": true
+      }
+    ],
+    "pitch": "A taste of Belgium in Moscow, Idaho. Starting from a class-wide urban renewal study at 6th and Jackson, Catalina designed a chocolate shop for a fictional Belgian chocolatier, with two homes above it, drawing on Belgian architecture, materials and craftsmanship."
+  }
+]

@@ -1,0 +1,106 @@
+{
+  "name": "Catalina King",
+  "role": "Interior Architecture + Design",
+  "tagline": "Selected work in spatial design, architectural drawing, rendering, and conceptual development.",
+  "description": "Portfolio of Catalina King, interior architecture and design student at the University of Idaho: architectural drawing, hand rendering, residential planning, conceptual design and urban renewal.",
+  "site_url": "",
+  "portfolio_title": "IAD Portfolio — Selected Works in 2nd Year Design",
+  "home_hero": {
+    "file": "hero.jpg",
+    "alt": "Marker-rendered perspective of Simba's lair among the Moru Kopjes boulders, under a blue sky",
+    "ratio": "3/2",
+    "frame": true
+  },
+  "process_flow": [
+    "Idea",
+    "Research",
+    "Iteration",
+    "Drawing",
+    "Design",
+    "Final"
+  ],
+  "process_flow_text": "Every project here is shown the way it was made, not only how it ended. Concept, research, iteration and drawing sit alongside the final design.",
+  "featured": [
+    "art-and-architecture-north",
+    "casa-de-luz-y-tierra",
+    "hero-lair",
+    "philips-field-station",
+    "legacy-crossing"
+  ],
+  "about": {
+    "intro": "Interior architecture and design student at the University of Idaho.",
+    "bio": "",
+    "details": [
+      {
+        "label": "University",
+        "value": "University of Idaho"
+      },
+      {
+        "label": "Year in program",
+        "value": "Third year"
+      },
+      {
+        "label": "Degree",
+        "value": ""
+      },
+      {
+        "label": "Expected graduation",
+        "value": ""
+      },
+      {
+        "label": "Design interests",
+        "value": ""
+      },
+      {
+        "label": "Software skills",
+        "value": ""
+      }
+    ],
+    "portfolio_note": "The work on this site is drawn from the portfolio “IAD Portfolio — Selected Works in 2nd Year Design,” spanning ARCH 154, IAD 152 and the ARCH 2750 Summer Architecture Bootcamp."
+  },
+  "contact": {
+    "email": "",
+    "linkedin": "https://www.linkedin.com/in/catalina-king-6a2a16328/",
+    "instagram": "https://www.instagram.com/catalina.king05/",
+    "resume": ""
+  },
+  "home_hero_folder": "home",
+  "process_projects": [
+    "casa-de-luz-y-tierra",
+    "quiet-harbor",
+    "legacy-crossing",
+    "art-and-architecture-north"
+  ],
+  "capabilities": [
+    {
+      "title": "Can she draw?",
+      "text": "Hand-drafted plans, sections, elevations and perspectives.",
+      "project": "art-and-architecture-north"
+    },
+    {
+      "title": "Can she render?",
+      "text": "Four hand-rendering iterations of one interior, guided by a written narrative.",
+      "project": "quiet-harbor"
+    },
+    {
+      "title": "Can she plan a home?",
+      "text": "A residence shaped around a client's routines, refined through feedback.",
+      "project": "casa-de-luz-y-tierra"
+    },
+    {
+      "title": "Can she think conceptually?",
+      "text": "A character and a story translated into architecture.",
+      "project": "hero-lair"
+    },
+    {
+      "title": "Can she design from research?",
+      "text": "A field station that bridges people and landscape.",
+      "project": "philips-field-station"
+    },
+    {
+      "title": "Can she take a project from site to interior?",
+      "text": "From urban renewal research to a shop and two homes.",
+      "project": "legacy-crossing"
+    }
+  ]
+}
