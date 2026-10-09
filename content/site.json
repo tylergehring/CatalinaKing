@@ -6,8 +6,8 @@
   "site_url": "",
   "portfolio_title": "IAD Portfolio — Selected Works in 2nd Year Design",
   "home_hero": {
-    "file": "hero.jpg",
-    "alt": "Marker-rendered perspective of Simba's lair among the Moru Kopjes boulders, under a blue sky",
+    "file": "hero.png",
+    "alt": "Final composite draft: marker-rendered perspective of the Art & Architecture Building North over a drafted elevation",
     "ratio": "3/2",
     "frame": true
   },
@@ -21,11 +21,16 @@
   ],
   "process_flow_text": "Every project here is shown the way it was made, not only how it ended. Concept, research, iteration and drawing sit alongside the final design.",
   "featured": [
-    "art-and-architecture-north",
-    "casa-de-luz-y-tierra",
-    "hero-lair",
+    "legacy-crossing",
     "philips-field-station",
-    "legacy-crossing"
+    "hero-lair",
+    "art-and-architecture-north",
+    "casa-de-luz-y-tierra"
+  ],
+  "project_priority": [
+    "legacy-crossing",
+    "philips-field-station",
+    "hero-lair"
   ],
   "about": {
     "intro": "Interior architecture and design student at the University of Idaho.",
@@ -64,43 +69,50 @@
     "instagram": "https://www.instagram.com/catalina.king05/",
     "resume": ""
   },
-  "home_hero_folder": "home",
+  "home_hero_folder": "art-and-architecture-north",
+  "practice": {
+    "eyebrow": "A way of working",
+    "title": "From observation to place",
+    "intro": "Each project begins by looking closely—at a building, a landscape, a client’s routines or a story—and takes shape through drawing, research and iteration."
+  },
   "process_projects": [
+    "legacy-crossing",
+    "philips-field-station",
+    "hero-lair",
     "casa-de-luz-y-tierra",
     "quiet-harbor",
-    "legacy-crossing",
     "art-and-architecture-north"
   ],
   "capabilities": [
     {
-      "title": "Can she draw?",
-      "text": "Hand-drafted plans, sections, elevations and perspectives.",
-      "project": "art-and-architecture-north"
+      "title": "Urban + interior design",
+      "text": "From urban renewal research to a shop and two homes.",
+      "project": "legacy-crossing"
     },
     {
-      "title": "Can she render?",
-      "text": "Four hand-rendering iterations of one interior, guided by a written narrative.",
-      "project": "quiet-harbor"
-    },
-    {
-      "title": "Can she plan a home?",
-      "text": "A residence shaped around a client's routines, refined through feedback.",
-      "project": "casa-de-luz-y-tierra"
-    },
-    {
-      "title": "Can she think conceptually?",
-      "text": "A character and a story translated into architecture.",
-      "project": "hero-lair"
-    },
-    {
-      "title": "Can she design from research?",
+      "title": "Research-led design",
       "text": "A field station that bridges people and landscape.",
       "project": "philips-field-station"
     },
     {
-      "title": "Can she take a project from site to interior?",
-      "text": "From urban renewal research to a shop and two homes.",
-      "project": "legacy-crossing"
+      "title": "Conceptual design",
+      "text": "A character and a story translated into architecture.",
+      "project": "hero-lair"
+    },
+    {
+      "title": "Drawing",
+      "text": "Hand-drafted plans, sections, elevations and perspectives.",
+      "project": "art-and-architecture-north"
+    },
+    {
+      "title": "Residential design",
+      "text": "A residence shaped around a client's routines, refined through feedback.",
+      "project": "casa-de-luz-y-tierra"
+    },
+    {
+      "title": "Rendering",
+      "text": "Four hand-rendering iterations of one interior, guided by a written narrative.",
+      "project": "quiet-harbor"
     }
   ]
 }

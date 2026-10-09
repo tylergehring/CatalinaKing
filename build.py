@@ -70,6 +70,8 @@ class Build:
         self.production = production
         self.site = json.loads((CONTENT / "site.json").read_text(encoding="utf-8"))
         self.projects = json.loads((CONTENT / "projects.json").read_text(encoding="utf-8"))
+        project_order = {slug: rank for rank, slug in enumerate(self.site.get("project_priority", []))}
+        self.projects.sort(key=lambda project: project_order.get(project["slug"], len(project_order)))
         self.by_slug = {p["slug"]: p for p in self.projects}
         self.year = datetime.date.today().year
         self._image_cache = {}
@@ -306,9 +308,13 @@ class Build:
         featured = [self.by_slug[x] for x in s["featured"] if x in self.by_slug]
         cards = "".join(self.project_card(p, "") for p in featured)
         caps = "".join(
-            f'<li data-reveal><h3>{esc(c["title"])}</h3><p>{esc(c["text"])}</p>'
-            f'<a href="projects/{esc(c["project"])}/">{esc(self.by_slug[c["project"]]["title"])} &rarr;</a></li>'
-            for c in s["capabilities"]
+            f'<li data-reveal><a class="practice__link" href="projects/{esc(c["project"])}/">'
+            f'<span class="practice__number" aria-hidden="true">{i:02d}</span>'
+            f'<span class="practice__copy"><span class="practice__discipline">{esc(c["title"])}</span>'
+            f'<span class="practice__text">{esc(c["text"])}</span></span>'
+            f'<span class="practice__project">{esc(self.by_slug[c["project"]]["title"])}</span>'
+            '<span class="practice__arrow" aria-hidden="true">&rarr;</span></a></li>'
+            for i, c in enumerate(s["capabilities"], 1)
         )
         process_links = "".join(
             f'<li><a href="projects/{esc(slug)}/">{esc(self.by_slug[slug]["title"])}</a></li>' for slug in s["process_projects"]
@@ -320,9 +326,13 @@ class Build:
   <a class="button" href="work/">View work</a>
 </section>
 <div class="wrap">{hero_fig}</div>
-<section class="wrap section" aria-labelledby="shows">
-  <div class="section__head"><h2 id="shows" class="h2">What the work shows</h2></div>
-  <ul class="caps">{caps}</ul>
+<section class="wrap section practice" aria-labelledby="shows">
+  <div class="practice__intro">
+    <p class="eyebrow practice__eyebrow">{esc(s["practice"]["eyebrow"])}</p>
+    <h2 id="shows" class="h2 practice__heading">{esc(s["practice"]["title"])}</h2>
+    <p class="practice__lead">{esc(s["practice"]["intro"])}</p>
+  </div>
+  <ol class="practice__list">{caps}</ol>
 </section>
 <section class="wrap section" aria-labelledby="selected">
   <div class="section__head"><h2 id="selected" class="h2">Selected work</h2><a class="more" href="work/">All work &rarr;</a></div>
@@ -441,12 +451,29 @@ class Build:
                   + "".join(f'<a href="#{k}">{"Concept" if k == "concept" else t}</a>' for k, t in subnav_items) + "</div></nav>") if len(subnav_items) > 2 else ""
         n = len(self.projects)
         prv, nxt = self.projects[(idx - 1) % n], self.projects[(idx + 1) % n]
-        next_block = f"""<section class="next" aria-label="Next project">
+        priority_projects = [
+            self.by_slug[slug]
+            for slug in self.site.get("project_priority", [])
+            if slug in self.by_slug
+        ]
+        if len(priority_projects) > 1:
+            current_priority = next(
+                (i for i, project in enumerate(priority_projects) if project["slug"] == p["slug"]),
+                None,
+            )
+            recommendation = (
+                priority_projects[(current_priority + 1) % len(priority_projects)]
+                if current_priority is not None
+                else priority_projects[idx % len(priority_projects)]
+            )
+        else:
+            recommendation = nxt
+        next_block = f"""<section class="next" aria-label="Featured project">
   <div class="wrap">
-    <a class="next__link" href="{root}projects/{esc(nxt["slug"])}/">
-      <span class="eyebrow">Next project</span>
-      <span class="title title--md">{self.title_html(nxt["title"])}</span>
-      <span class="next__cat">{esc(nxt["category"])} &rarr;</span>
+    <a class="next__link" href="{root}projects/{esc(recommendation["slug"])}/">
+      <span class="eyebrow">Featured project</span>
+      <span class="title title--md">{self.title_html(recommendation["title"])}</span>
+      <span class="next__cat">{esc(recommendation["category"])} &rarr;</span>
     </a>
   </div>
 </section>"""
